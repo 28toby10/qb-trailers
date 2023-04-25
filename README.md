@@ -1,1 +1,1 @@
-# qb-trailers
+# Working trailers for QBCore
